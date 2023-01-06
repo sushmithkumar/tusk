@@ -13,3 +13,8 @@ MagTech Students
 Sushmith
 Vishnu
 Anudeep
+
+MagTech Rooms
+
+PlayRoom
+Office
