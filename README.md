@@ -7,3 +7,9 @@ MagTech Employees
 Bobba
 chandra
 hemanth
+
+MagTech Students
+
+Sushmith
+Vishnu
+Anudeep
